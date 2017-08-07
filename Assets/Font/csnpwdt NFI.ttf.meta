@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e0655be01df70154bbc29b7dc8446860
+timeCreated: 1501687304
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: CSNPWDT NFI
+  fontNames:
+  - CSNPWDT NFI
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2d40fe38cdc928b4fa44ed50c91baa2d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
