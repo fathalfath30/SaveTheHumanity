@@ -21,7 +21,7 @@ This simple game we created during the summer school program at FTSM UKM Bangi, 
 * Standard Assets - Unity 
 
 ## License
-This project is licensed under the **GNU General Public License** v3.0 - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the **GNU General Public License** v3.0 - see the [LICENSE.md](https://github.com/Fathalfath30/Save-The-Humanity/blob/master/LICENSE) file for details
 
 ## Special thanks to
 * [Universiti Kebangsaan Malaysia](http://www.ukm.my/portal/)
