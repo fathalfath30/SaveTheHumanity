@@ -22,3 +22,8 @@ This simple game we created during the summer school program at FTSM UKM Bangi, 
 
 ## License
 This project is licensed under the **GNU General Public License** v3.0 - see the [LICENSE.md](LICENSE.md) file for details
+
+## Thank's to 
+* [Universiti Kebangsaan Malaysia](http://www.ukm.my/portal/)
+* Prof. Madya Dr. NOR AZAN BINTI MAT ZIN - Our lecture on **LMRC2523**
+* [SadSmile Games](https://www.youtube.com/channel/UCU9oBhCHSC8xWQ4_tSkR1fQ) - For tutorial
